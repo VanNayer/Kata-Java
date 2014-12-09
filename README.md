@@ -1,3 +1,3 @@
-Empty Project for Katta in java
+Empty Project for Kata in java
 
 ==========
